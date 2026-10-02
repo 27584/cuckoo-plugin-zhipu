@@ -1,0 +1,8 @@
+{
+  "id": "zhipu",
+  "name": "智谱清言（Zhipu / chatglm.cn）",
+  "version": "1.0.0",
+  "description": "为 Cuckoo Code 增加智谱清言（chatglm.cn）平台支持：输入框/发送按钮定位、原生 Enter 发送、SSE 网络拦截解析回复、会话列表与附件上传。",
+  "author": "wangyongpeng90",
+  "minAppVersion": "0.8.7"
+}
